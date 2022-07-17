@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tuanth1479
 - 👀 I’m interested in minimalism.
 - 🌱 I’m currently learning Go, Next.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on CMS, Logistics.
 - 📫 How to reach me tuanth.nc.uit@gmail.com
 
 <!---
